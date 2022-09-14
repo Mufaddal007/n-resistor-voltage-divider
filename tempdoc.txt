@@ -1,0 +1,1 @@
+Hello sir, good afternoon, I wanted to ask that what factor decides the maximum number of requests that can be pinged to a server, after which the server will start to behave abnormally, or is there any special state which decides the downtime of a server, is this downtime dependent on the type and availability of the physical resources on which it is hosted currently?  
